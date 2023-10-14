@@ -1,0 +1,12 @@
+header{
+text-aligh: center;
+}
+
+body{
+background-color: #FFFAF0;
+font-family: Gill Sans, sans-serif;
+}
+
+
+
+
