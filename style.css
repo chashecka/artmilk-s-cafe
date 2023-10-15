@@ -7,6 +7,9 @@ background-color: #FFFAF0;
 font-family: Gill Sans, sans-serif;
 }
 
+img:hover{
+  transition: 3s lineart
+}
 
 
 
