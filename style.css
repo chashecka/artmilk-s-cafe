@@ -7,8 +7,13 @@ background-color: #FFFAF0;
 font-family: Gill Sans, sans-serif;
 }
 
-img:hover{
+.d:hover{
   transition: 3s lineart;
+}
+
+.d{
+  height: 200px;
+  wight: 200px;
 }
 
 
