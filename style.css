@@ -8,7 +8,7 @@ font-family: Gill Sans, sans-serif;
 }
 
 .d:hover{
-  transition: opacity 3s;
+  transition: opacity 3s ease;
 }
 
 .d{
