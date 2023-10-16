@@ -22,5 +22,12 @@ font-family: Gill Sans, sans-serif;
   opacity: 0.5px
 }
 
+.l{
+    text-align: left;
+}
+
+.l:hover{
+    text-align: center;
+}
 
 
